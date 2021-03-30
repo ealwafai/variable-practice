@@ -8,3 +8,7 @@ elevation = 528
 
 is_beautiful = true
 is_landlocked = false
+
+languages_spoken = ["Arabic", "French", "English"]
+local_currencies = ["Lira", "Dollar"]
+touristic_places = ["Downtown Beirut", "beaches", "mountains"]
